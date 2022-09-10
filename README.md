@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
+## I'm John David Walker
 
-<!--
-**JohnDavidWalker/JohnDavidWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :school: Educator 
+### :1234: Math Major
+### :computer: Coding Enthustiast
 
-Here are some ideas to get you started:
+Current Interests: 
+Python 
+[python image](https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Favorite Code Editor: 
+VSCode
+
+
