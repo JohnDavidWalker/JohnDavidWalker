@@ -5,11 +5,8 @@
 ### :1234: Math Major
 ### :computer: Coding Enthustiast
 
-Current Interests: 
-Python 
-[python image](https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.svg)
+Favorite Technologies:  
+<img src="https://github.com/JohnDavidWalker/pythonimage/blob/main/python.png" width="50">
 
-Favorite Code Editor: 
-VSCode
 
 
