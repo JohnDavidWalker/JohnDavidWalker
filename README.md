@@ -7,6 +7,6 @@
 
 Favorite Technologies:  
 <img src="https://github.com/JohnDavidWalker/pythonimage/blob/main/python.png" width="40">
-
+<img src="https://github.com/JohnDavidWalker/vscodeimage/blob/main/vscode.png" width="40">
 
 
